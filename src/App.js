@@ -1,6 +1,6 @@
 import React from 'react';
 import GlobalStyle from './globalStyles';
-import {BrowserRouter, Route, Switch} from 'react-router-dom';
+import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import Navbar from './components/Navbar/index';
 
 import Home from './pages/Home';
@@ -10,7 +10,7 @@ import Footer from './components/Footer/index';
 
 function App() {
   return (
-    <BrowserRouter>
+    <Router>
       <GlobalStyle/>
       <Navbar/>
       <Switch>
@@ -19,7 +19,7 @@ function App() {
         <Route path="/pricing" children={<Pricing/>}/>
       </Switch>
       <Footer/>
-    </BrowserRouter>
+    </Router>
   );
 }
 
