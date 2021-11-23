@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/delta/static/js/main.623d27c1.chunk.js",
-    "main.js.map": "/delta/static/js/main.623d27c1.chunk.js.map",
-    "runtime-main.js": "/delta/static/js/runtime-main.1a97f1bf.js",
-    "runtime-main.js.map": "/delta/static/js/runtime-main.1a97f1bf.js.map",
-    "static/js/2.0e55d7e1.chunk.js": "/delta/static/js/2.0e55d7e1.chunk.js",
-    "static/js/2.0e55d7e1.chunk.js.map": "/delta/static/js/2.0e55d7e1.chunk.js.map",
-    "index.html": "/delta/index.html",
-    "static/js/2.0e55d7e1.chunk.js.LICENSE.txt": "/delta/static/js/2.0e55d7e1.chunk.js.LICENSE.txt",
-    "static/media/ChartUp.svg": "/delta/static/media/ChartUp.b7df1f90.svg",
-    "static/media/Connection.svg": "/delta/static/media/Connection.bf6c08b7.svg",
-    "static/media/Deal.svg": "/delta/static/media/Deal.c27e71b1.svg",
-    "static/media/clients.jpg": "/delta/static/media/clients.8fa33281.jpg",
-    "static/media/hero.aced8322.mp4": "/delta/static/media/hero.aced8322.mp4",
-    "static/media/security.jpg": "/delta/static/media/security.de3bac9e.jpg",
-    "static/media/teamwork.jpg": "/delta/static/media/teamwork.4a225a72.jpg"
+    "main.js": "/static/js/main.623d27c1.chunk.js",
+    "main.js.map": "/static/js/main.623d27c1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e7159294.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e7159294.js.map",
+    "static/js/2.fced1962.chunk.js": "/static/js/2.fced1962.chunk.js",
+    "static/js/2.fced1962.chunk.js.map": "/static/js/2.fced1962.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.fced1962.chunk.js.LICENSE.txt": "/static/js/2.fced1962.chunk.js.LICENSE.txt",
+    "static/media/ChartUp.svg": "/static/media/ChartUp.b7df1f90.svg",
+    "static/media/Connection.svg": "/static/media/Connection.bf6c08b7.svg",
+    "static/media/Deal.svg": "/static/media/Deal.c27e71b1.svg",
+    "static/media/clients.jpg": "/static/media/clients.8fa33281.jpg",
+    "static/media/hero.aced8322.mp4": "/static/media/hero.aced8322.mp4",
+    "static/media/security.jpg": "/static/media/security.de3bac9e.jpg",
+    "static/media/teamwork.jpg": "/static/media/teamwork.4a225a72.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a97f1bf.js",
-    "static/js/2.0e55d7e1.chunk.js",
+    "static/js/runtime-main.e7159294.js",
+    "static/js/2.fced1962.chunk.js",
     "static/js/main.623d27c1.chunk.js"
   ]
 }
