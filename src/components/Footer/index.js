@@ -22,7 +22,7 @@ function Footer() {
       <FooterWrapper>
         <FooterGrid justify="space-between">
           <FooterColumn id="footerLogo">
-            <FooterLogo to="/">
+            <FooterLogo to="/delta">
               <SocialIcon src={logo} />
               Delta
             </FooterLogo>
@@ -34,7 +34,7 @@ function Footer() {
               {footerSocialData.map((social, index) => (
                 <FooterSocialIcon
                   key={index}
-                  href="/"
+                  href="/delta"
                   target="_blank"
                   aria-label={social.name}
                 >
@@ -47,7 +47,7 @@ function Footer() {
             <FooterLinkItems key={index}>
               <FooterLinkTitle>{footerItem.title}</FooterLinkTitle>
               {footerItem.links.map((link, linkIndex) => (
-                <FooterLink key={linkIndex} to="/">
+                <FooterLink key={linkIndex} to="/delta">
                   {link}
                 </FooterLink>
               ))}

@@ -14,9 +14,9 @@ function App() {
       <GlobalStyle/>
       <Navbar/>
       <Switch>
-        <Route path="/" exact children={<Home/>}/>
-        <Route path="/signup" children={<SignUp/>}/>
-        <Route path="/pricing" children={<Pricing/>}/>
+        <Route path="/delta" exact component={Home}/>
+        <Route path="/delta/signup" component={SignUp}/>
+        <Route path="/delta/pricing" component={Pricing}/>
       </Switch>
       <Footer/>
     </Router>

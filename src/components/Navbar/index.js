@@ -35,7 +35,7 @@ const Navbar = () => {
   };
 
   const closeMobileMenu = (to, id) => {
-    if (id && location.pathname === '/') {
+    if (id && location.pathname === '/delta') {
       scrollTo(id);
     }
 
@@ -47,7 +47,7 @@ const Navbar = () => {
     <IconContext.Provider value={{ color: '#fff' }}>
       <Nav>
         <NavbarContainer>
-          <NavLogo to="/">
+          <NavLogo to="/delta">
             <NavIcon src={logo} alt="logo" />
             Delta
           </NavLogo>
