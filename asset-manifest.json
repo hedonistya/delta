@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/delta/static/js/main.a300d353.chunk.js",
-    "main.js.map": "/delta/static/js/main.a300d353.chunk.js.map",
+    "main.js": "/delta/static/js/main.bee1eb99.chunk.js",
+    "main.js.map": "/delta/static/js/main.bee1eb99.chunk.js.map",
     "runtime-main.js": "/delta/static/js/runtime-main.1a97f1bf.js",
     "runtime-main.js.map": "/delta/static/js/runtime-main.1a97f1bf.js.map",
-    "static/js/2.201dabda.chunk.js": "/delta/static/js/2.201dabda.chunk.js",
-    "static/js/2.201dabda.chunk.js.map": "/delta/static/js/2.201dabda.chunk.js.map",
+    "static/js/2.0e55d7e1.chunk.js": "/delta/static/js/2.0e55d7e1.chunk.js",
+    "static/js/2.0e55d7e1.chunk.js.map": "/delta/static/js/2.0e55d7e1.chunk.js.map",
     "index.html": "/delta/index.html",
-    "static/js/2.201dabda.chunk.js.LICENSE.txt": "/delta/static/js/2.201dabda.chunk.js.LICENSE.txt",
+    "static/js/2.0e55d7e1.chunk.js.LICENSE.txt": "/delta/static/js/2.0e55d7e1.chunk.js.LICENSE.txt",
     "static/media/ChartUp.svg": "/delta/static/media/ChartUp.b7df1f90.svg",
     "static/media/Connection.svg": "/delta/static/media/Connection.bf6c08b7.svg",
     "static/media/Deal.svg": "/delta/static/media/Deal.c27e71b1.svg",
@@ -18,7 +18,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1a97f1bf.js",
-    "static/js/2.201dabda.chunk.js",
-    "static/js/main.a300d353.chunk.js"
+    "static/js/2.0e55d7e1.chunk.js",
+    "static/js/main.bee1eb99.chunk.js"
   ]
 }
