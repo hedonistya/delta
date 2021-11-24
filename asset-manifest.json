@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/delta/static/js/main.c4305c45.chunk.js",
-    "main.js.map": "/delta/static/js/main.c4305c45.chunk.js.map",
+    "main.js": "/delta/static/js/main.521a5790.chunk.js",
+    "main.js.map": "/delta/static/js/main.521a5790.chunk.js.map",
     "runtime-main.js": "/delta/static/js/runtime-main.1a97f1bf.js",
     "runtime-main.js.map": "/delta/static/js/runtime-main.1a97f1bf.js.map",
     "static/js/2.201dabda.chunk.js": "/delta/static/js/2.201dabda.chunk.js",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime-main.1a97f1bf.js",
     "static/js/2.201dabda.chunk.js",
-    "static/js/main.c4305c45.chunk.js"
+    "static/js/main.521a5790.chunk.js"
   ]
 }
